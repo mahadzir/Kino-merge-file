@@ -1,0 +1,12 @@
+{
+  "name": "mergepaper",
+  "version": "1.0.0",
+  "description": "Gabungkan beberapa fail PDF menjadi satu dokumen — sepenuhnya dalam pelayar.",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": ["pdf", "merge", "combine", "sejda", "pdf-lib"],
+  "license": "MIT"
+}
